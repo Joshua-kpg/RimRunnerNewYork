@@ -1,6 +1,19 @@
 {
  "about": "RimRunnerNewYork 2026-27 finals ledger, written by scripts/update_scores.py. Keyed by MaxPreps contest id. homeMp/awayMp are MaxPreps team ids. state: applied | unlisted (one team not in our list; counts for records only) | pending (final between listed teams with no scheduled game yet; awaiting team-page check) | ignored.",
  "finals": {
+  "169f486d-7616-41c9-9306-23986f40f6a6": {
+   "awayMp": "0c519314-2176-40ea-bab5-e6aa88da1b8d",
+   "awayScore": 27,
+   "date": "2026-11-23",
+   "forfeit": false,
+   "gameId": "ny26-0005",
+   "homeMp": "83d70e24-ef85-48f7-b038-8ff1b318b668",
+   "homeScore": 58,
+   "neutral": null,
+   "source": "scores-page",
+   "state": "applied",
+   "winner": "home"
+  },
   "2e2b9571-e5ca-46a2-9063-1562fb5e7ae1": {
    "awayMp": "824315c9-f23d-40b2-a879-6f31800bbada",
    "awayScore": 62,
@@ -27,6 +40,19 @@
    "state": "applied",
    "winner": "away"
   },
+  "5f065688-fef3-44b1-8bfe-60873d59b882": {
+   "awayMp": "192ef835-00da-45f1-b3a0-8fd54399ef4b",
+   "awayScore": 58,
+   "date": "2026-11-23",
+   "forfeit": false,
+   "gameId": "ny26-0001",
+   "homeMp": "b29ee9da-0c02-4162-9f02-7eeaa03066ac",
+   "homeScore": 78,
+   "neutral": null,
+   "source": "scores-page",
+   "state": "applied",
+   "winner": "home"
+  },
   "76ba5550-7625-44ba-aa22-0680d32adb88": {
    "awayMp": "48b1296b-943d-45a3-a997-15ce03d5110f",
    "awayScore": 46,
@@ -42,13 +68,13 @@
   },
   "79dd5547-f19a-4787-ae5f-b08db54a49c3": {
    "awayMp": "ecdf0abf-7594-4c31-bd9e-22c79061a0f8",
-   "awayScore": 62,
+   "awayScore": 64,
    "date": "2026-11-23",
    "forfeit": false,
    "gameId": "ny26-x001",
    "gameType": "conference",
    "homeMp": "4fba1439-dfe8-40ea-b554-17ff5752ae6b",
-   "homeScore": 31,
+   "homeScore": 33,
    "neutral": false,
    "source": "scores-page",
    "state": "applied",
@@ -76,6 +102,32 @@
    "gameId": "ny26-0007",
    "homeMp": "3ed5b94b-5264-4734-800c-74fec825dc33",
    "homeScore": 29,
+   "neutral": null,
+   "source": "scores-page",
+   "state": "applied",
+   "winner": "away"
+  },
+  "95fec61e-3a2a-49c1-981f-5de56cdf21b8": {
+   "awayMp": "98eef9c0-03f8-448d-b473-261325b456ce",
+   "awayScore": 62,
+   "date": "2026-11-23",
+   "forfeit": false,
+   "gameId": "ny26-0018",
+   "homeMp": "3210c33f-a48b-40f3-87c5-10c65b6094db",
+   "homeScore": 86,
+   "neutral": null,
+   "source": "scores-page",
+   "state": "applied",
+   "winner": "home"
+  },
+  "a6a5ff0f-ddcf-42c7-ae27-a6f3ce77eae2": {
+   "awayMp": "4afa1ef1-3f7e-4222-8340-6b2f3792033f",
+   "awayScore": 52,
+   "date": "2026-11-23",
+   "forfeit": false,
+   "gameId": "ny26-0004",
+   "homeMp": "3124c2f3-263d-4e45-9d54-5024a6528a67",
+   "homeScore": 38,
    "neutral": null,
    "source": "scores-page",
    "state": "applied",
