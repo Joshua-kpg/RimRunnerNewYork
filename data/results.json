@@ -31,6 +31,32 @@
    "verified": true,
    "winner": "home"
   },
+  "098bb982-2978-4830-af48-2bfa016aa03f": {
+   "awayMp": "81a9dc74-a673-4fb9-a6ce-d33e5601cd50",
+   "awayScore": 59,
+   "date": "2026-11-24",
+   "forfeit": false,
+   "gameId": "ny26-0030",
+   "homeMp": "fab3e9e4-a3bc-4716-a4d4-580e0e1549c5",
+   "homeScore": 79,
+   "neutral": null,
+   "source": "scores-page",
+   "state": "applied",
+   "winner": "home"
+  },
+  "0a1c4541-a9b1-40f2-a44e-82f4e5d913d9": {
+   "awayMp": "82a71707-de08-4800-b7c9-775d668f6e9c",
+   "awayScore": 18,
+   "date": "2026-11-25",
+   "forfeit": false,
+   "gameId": "ny26-0053",
+   "homeMp": "d63e085b-6a36-4601-baf0-3c091d4b8faf",
+   "homeScore": 7,
+   "neutral": null,
+   "source": "scores-page",
+   "state": "applied",
+   "winner": "away"
+  },
   "0d9a3d22-1c1f-4914-8ccf-306b17b4914b": {
    "awayMp": "b3603c53-bc93-47d0-80a0-9572ff8f9574",
    "awayScore": 39,
@@ -102,6 +128,21 @@
    "verified": true,
    "winner": "home"
   },
+  "21d28a18-7fc0-424e-b4c7-71920e590594": {
+   "awayMp": "4a19c277-7c51-4dd2-bdd3-85eaf045813d",
+   "awayScore": 49,
+   "date": "2026-11-24",
+   "forfeit": false,
+   "gameId": "ny26-x024",
+   "gameType": "non-conference",
+   "homeMp": "38d06ca0-44c3-4ee0-afe3-c217d3ef062b",
+   "homeScore": 31,
+   "neutral": false,
+   "source": "scores-page",
+   "state": "applied",
+   "verified": true,
+   "winner": "away"
+  },
   "22274fe3-71e0-4cea-93a7-0fad8bf42643": {
    "awayMp": "a580a9a1-d481-4967-b9a2-b310c0a1e12f",
    "awayScore": 31,
@@ -116,6 +157,19 @@
    "state": "applied",
    "verified": true,
    "winner": "home"
+  },
+  "227c06de-1821-474a-b493-55e0010c58eb": {
+   "awayMp": "5cd4468b-f2bb-4932-9631-84a6c0c25393",
+   "awayScore": 67,
+   "date": "2026-11-24",
+   "forfeit": false,
+   "gameId": "ny26-0032",
+   "homeMp": "9c821e6d-dc24-47a1-a6eb-c48b1d9ae23d",
+   "homeScore": 61,
+   "neutral": null,
+   "source": "scores-page",
+   "state": "applied",
+   "winner": "away"
   },
   "2d1d1590-de16-4202-ae11-a8af8dc68c2c": {
    "awayMp": "870d50e3-611a-4c17-86c6-ce2148598abc",
@@ -162,7 +216,7 @@
   },
   "375d2bcb-53cf-4ea9-9d1d-fc3eb60b834a": {
    "awayMp": "66e686d5-2994-473b-92ff-3496f5e00e87",
-   "awayScore": 61,
+   "awayScore": 60,
    "date": "2026-11-23",
    "forfeit": false,
    "gameId": "ny26-0010",
@@ -215,6 +269,34 @@
    "state": "applied",
    "verified": true,
    "winner": "home"
+  },
+  "4b8232c5-04f2-4343-82fc-353d62cf072c": {
+   "awayMp": "a3ec64fd-5b40-42ae-9e97-e100c6a449c5",
+   "awayScore": 56,
+   "date": "2026-11-24",
+   "forfeit": false,
+   "gameId": "ny26-x025",
+   "gameType": "non-conference",
+   "homeMp": "5d5390cd-b8d9-4245-bdab-c650afabb268",
+   "homeScore": 61,
+   "neutral": false,
+   "source": "scores-page",
+   "state": "applied",
+   "verified": true,
+   "winner": "home"
+  },
+  "539ed60c-fbd4-43a9-a673-425e9cc55fcd": {
+   "awayMp": "c8b6c120-9802-48b7-8910-ac2b22b53530",
+   "awayScore": 69,
+   "date": "2026-11-24",
+   "forfeit": false,
+   "gameId": "ny26-0034",
+   "homeMp": "173c2ea3-07e2-45a5-b899-7e3c744b99d1",
+   "homeScore": 31,
+   "neutral": null,
+   "source": "scores-page",
+   "state": "applied",
+   "winner": "away"
   },
   "554ea5a1-f787-455a-9c90-521d5a02c0fa": {
    "awayMp": "2f182bfe-f1cb-4716-9c11-c444eeb8a7eb",
@@ -271,6 +353,19 @@
    "source": "scores-page",
    "state": "applied",
    "winner": "home"
+  },
+  "5fc660ae-b537-415a-8884-0f70c0482da3": {
+   "awayMp": "ac08b8fb-85e7-4a3c-8c19-6251e27fd255",
+   "awayScore": 80,
+   "date": "2026-11-24",
+   "forfeit": false,
+   "gameId": "ny26-0042",
+   "homeMp": "e7c680cc-8d07-4b9e-a99f-0a1db2664589",
+   "homeScore": 62,
+   "neutral": null,
+   "source": "scores-page",
+   "state": "applied",
+   "winner": "away"
   },
   "62e37660-01b9-46e3-a1ac-7dc9f5d8c980": {
    "awayMp": "a7ee70ec-6bc0-47d6-8ef5-5233314d40b6",
@@ -507,6 +602,21 @@
    "neutral": null,
    "source": "scores-page",
    "state": "applied",
+   "winner": "away"
+  },
+  "d7b6f827-0616-43f4-91c6-2d584379aef7": {
+   "awayMp": "036d0961-a928-4412-b393-b36b17fb1e70",
+   "awayScore": 90,
+   "date": "2026-11-24",
+   "forfeit": false,
+   "gameId": "ny26-x026",
+   "gameType": "non-conference",
+   "homeMp": "5c576427-7ed3-48fe-95ce-e79464dd35e5",
+   "homeScore": 84,
+   "neutral": false,
+   "source": "scores-page",
+   "state": "applied",
+   "verified": true,
    "winner": "away"
   },
   "e2f8629d-84e7-4947-a303-56ebe968c2ca": {
