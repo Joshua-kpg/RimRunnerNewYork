@@ -554,6 +554,21 @@
    "state": "applied",
    "winner": "home"
   },
+  "99514975-f395-482d-98f2-9c045153d252": {
+   "awayMp": "9004873c-ec92-47cd-9130-a97d9dec5aca",
+   "awayScore": 44,
+   "date": "2026-11-27",
+   "forfeit": false,
+   "gameId": "ny26-0070",
+   "gameType": "non-conference",
+   "homeMp": "3d94214c-4e36-4390-9b63-a2d65ea501b4",
+   "homeScore": 65,
+   "neutral": true,
+   "source": "team-page",
+   "state": "applied",
+   "verified": true,
+   "winner": "home"
+  },
   "9b27eec2-a476-43dd-a6b1-9a5d06b71375": {
    "awayMp": "67f6d18d-342d-4811-bb44-ab88d8c9abee",
    "awayScore": 70,
